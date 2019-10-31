@@ -45,6 +45,7 @@ selanjutnya kita juga bisa menambahkan is dan is not pada if segment seperti dib
 Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan Bahasa pemgraman yang lain yaitu sama-sama menggunakan if, pada setiap pemrograman if berisi sebuah ekspresi logika menggunakan sebuah data yang telah dibandingkan seperti alur flowchart dibawah ini.
 
   Contoh:
-![iftrue/false](https://user-images.githubusercontent.com/56243690/67922645-e9c72f00-fbdd-11e9-8cf9-77a252501bae.png)
+![iftrue/false](https://user-images.githubusercontent.com/56243690/67922863-930e2500-fbde-11e9-9403-46022629cd60.png)
+
 
 
