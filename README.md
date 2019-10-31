@@ -35,8 +35,7 @@
 
 
 
-# Selanjutnya kita mengetahui setelah RUN yang salah:
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/Capture.PNG)
+
 
  Pada if segment diatas memiliki ketentuan nilai if pertama harus bernilai true barulah nilai if yang berikutnya yang akan di proses atau dieksekusi, namun jika nilai if pertama bernilai false maka nilai if yang berikutnya tidak akan di proses, namun jika nilai if yang pertama bernilai true sedangkan nilai if yang kedua bernilai false maka yang akan di proses hanyalah if yang pertama. Berikut hasilnya jika if segment yang kita masukan bernilai true :
 ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/step.png)
