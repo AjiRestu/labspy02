@@ -8,6 +8,7 @@
   Bilangan1 = int(input("Masukkan Bilangan 1:"))
   Bilangan2 = int(input("Masukkan Bilangan 2:"))
   Bilangan3 = int(input("Masukkan Bilangan 3:"))
+![pycharm](https://user-images.githubusercontent.com/56243690/68064451-40ec1180-fd4e-11e9-96e0-56a0af545ee7.PNG)
 
 
 # Berikutnya kita juga bisa membuat kondisi if int(Bilangan1) and (Bilangan1 > Bilangan3): seperti dibawah ini :
