@@ -17,6 +17,7 @@
     Terbesar = Bilangan1
     NomBil = "Bilangan 1"
 
+![pycharm1](https://user-images.githubusercontent.com/56243690/68064487-c2dc3a80-fd4e-11e9-8132-8e4d0baac323.PNG)
 
 # Selanjutnya kita juga bisa membuat kondisi elif (Bilangan2 > Bilangan3) and (Bilangan2 > Bilangan1): Seperti dibawah ini:
    print("Nilai terbesarnya adalah :", Bilangan2)
