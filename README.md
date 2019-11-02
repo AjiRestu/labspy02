@@ -33,7 +33,8 @@
     
 # Selanjutnya menggunakan bilangan besar adalah
   print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
- 
+  
+ ![pycharm3](https://user-images.githubusercontent.com/56243690/68064574-e3f15b00-fd4f-11e9-9441-064de146b04f.PNG)
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
 ![iftrue/false](https://user-images.githubusercontent.com/56243690/67921873-b2f01980-fbdb-11e9-82f4-7b145716d272.png)
