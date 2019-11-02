@@ -3,7 +3,7 @@
   Jika kondisi pertama tidak terpenuhi atau bernilai False, maka kode program akan lanjut ke kondisi If di bawahnya. Jika ternyata tidak juga terpenuhi, akan lanjut lagi ke kondisi If di bawahnya, dst hingga blok Else terakhir atau terdapat kondisi If yang bernilai True.
 
 
-## yang pertama kita akan membuat contoh bilangan yang memasukin bilangan satu sampai tiga
+## Yang pertama kita akan membuat contoh bilangan yang memasukin bilangan satu sampai tiga
 
   Bilangan1 = int(input("Masukkan Bilangan 1:"))
   Bilangan2 = int(input("Masukkan Bilangan 2:"))
@@ -46,7 +46,6 @@
  Pada if segment diatas memiliki ketentuan nilai if pertama harus bernilai true barulah nilai if yang berikutnya yang akan di proses atau dieksekusi, namun jika nilai if pertama bernilai false maka nilai if yang berikutnya tidak akan di proses, namun jika nilai if yang pertama bernilai true sedangkan nilai if yang kedua bernilai false maka yang akan di proses hanyalah if yang pertama. Berikut hasilnya jika if segment yang kita masukan bernilai true :
 ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/step.png)
 
-selanjutnya kita juga bisa menambahkan is dan is not pada if segment seperti dibawah ini :
 
 Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan Bahasa pemgraman yang lain yaitu sama-sama menggunakan if, pada setiap pemrograman if berisi sebuah ekspresi logika menggunakan sebuah data yang telah dibandingkan seperti alur flowchart dibawah ini.
 
